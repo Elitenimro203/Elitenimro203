@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👑 Hi, I'm Cypher T-203
 
-<!--
-**Elitenimro203/Elitenimro203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering • Data • Artificial Intelligence
 
-Here are some ideas to get you started:
+> *Think beyond limits. Build beyond expectations.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineering student passionate about technology, problem-solving, and building digital solutions.
+
+My interests span software development, data engineering, geospatial technologies, and artificial intelligence. I enjoy exploring new technologies and turning ideas into practical solutions.
+
+## 🧠 Data & Artificial Intelligence
+
+- Python, SQL
+- Geospatial Data & PostGIS
+- LLM and Computer Vision API Integration
+- AI Agent Design
+- Data Engineering *(DataCamp learning path in progress)*
+
+## 💻 Software Development
+
+- **Backend:** Laravel, FastAPI
+- **Frontend:** React, TypeScript, Next.js
+- **APIs:** REST API Design & Integration
+- **Engineering Practices:** Git, Automated Testing
+- **Deployment:** Vercel, Railway
+
+## 🗄️ Databases
+
+- PostgreSQL
+- MongoDB — Replication & Sharding
+
+## 🛠️ Tools & Methodologies
+
+- Microsoft Excel, Word & PowerPoint
+- Technical Documentation
+- Scrum & Agile Practices
+
+## 🌐 Explore My Work
+
+🚀 **[Visit My Portfolio](https://portfolio-chi-self-5jgodftr6m.vercel.app/)**
+
+## 🤝 Let's Connect
+
+I'm open to collaborative projects, learning opportunities, and connecting with people passionate about technology and innovation.
+
+---
+
+*Stay curious. Think strategically. Build relentlessly.* ⚡
